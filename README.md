@@ -1,4 +1,4 @@
-<h2>配置文件下载地址</h2><p align="center">
+<h2>文件太多提示404证明没有上传</h2><p align="center">
 <img src="https://ws2.sinaimg.cn/large/9f1137b1gy1g1hg3epia2j20n505jt9q.jpg" width="300px" alt="logo">
 <h1 align="center">神舟笔记本全系列macOS—EFI 10.13.6-10.14</h1>
 <p align="center">
@@ -1780,10 +1780,10 @@
         <p class="p2"><span class="s2"><a href="/Index/model.html?id=526">战神<span class="s3">Z7-KP5GZ</span></a></span></p>
       </td>
       <td valign="middle" class="td3">
-        <p class="p2"><span class="s2"><a href="/Index/model.html?id=361">战神<span class="s3">Z7-KP5S1</span></a></span></p>
+        <p class="p2"><span class="s2"><a href="https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip">战神<span class="s3">Z7-KP5S1</span></a></span></p>
       </td>
       <td valign="middle" class="td4">
-        <p class="p2"><span class="s2"><a href="/Index/model.html?id=537">战神<span class="s3">Z7-KP7 Pro</span></a></span></p>
+        <p class="p2"><span class="s2"><a href="https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip">战神<span class="s3">Z7-KP7 Pro</span></a></span></p>
       </td>
     </tr>
     <tr>
@@ -1872,7 +1872,7 @@
     </tr>
     <tr>
       <td valign="middle" class="td1">
-        <p class="p2"><span class="s2"><a href="/Index/model.html?id=268">战神<span class="s3">Z7-SP7S2</span></a></span></p>
+        <p class="p2"><span class="s2"><a href="https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip">战神<span class="s3">Z7-SP7S2</span></a></span></p>
       </td>
       <td valign="middle" class="td2">
         <p class="p2"><span class="s2"><a href="/Index/model.html?id=605">战神<span class="s3">Z7M-CT5NA</span></a></span></p>
@@ -1914,7 +1914,7 @@
     </tr>
     <tr>
       <td valign="middle" class="td1">
-        <p class="p2"><span class="s2"><a href="/Index/model.html?id=434">战神<span class="s3">Z7M-KP5D1</span></a></span></p>
+        <p class="p2"><span class="s2"><a href="https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip">战神<span class="s3">Z7M-KP5D1</span></a></span></p>
       </td>
       <td valign="middle" class="td2">
         <p class="p2"><span class="s2"><a href="/Index/model.html?id=440">战神<span class="s3">Z7M-KP5DC</span></a></span></p>
@@ -2012,7 +2012,7 @@
     </tr>
     <tr>
       <td valign="middle" class="td1">
-        <p class="p2"><span class="s2"><a href="/Index/model.html?id=370">战神<span class="s3">Z7M-KP7S</span></a></span></p>
+        <p class="p2"><span class="s2"><a href="https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip">战神<span class="s3">Z7M-KP7S</span></a></span></p>
       </td>
       <td valign="middle" class="td2">
         <p class="p2"><span class="s2"><a href="/Index/model.html?id=389">战神<span class="s3">Z7M-KP7S</span></a></span></p>
@@ -2063,7 +2063,7 @@
         <p class="p2"><span class="s2"><a href="/Index/model.html?id=354">战神<span class="s3">Z8-KP7S2</span></a></span></p>
       </td>
       <td valign="middle" class="td4">
-        <p class="p2"><span class="s2"><a href="/Index/model.html?id=266">战神<span class="s3">Z8-SP7S2</span></a></span></p>
+        <p class="p2"><span class="s2"><a href="https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip">战神<span class="s3">Z8-SP7S2</span></a></span></p>
       </td>
     </tr>
     <tr>
