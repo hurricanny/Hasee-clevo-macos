@@ -4,30 +4,7 @@
 <p align="center">
 <h2>配置文件下载地址</h2>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1561.61">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 14.0px Arial; color: #666666; -webkit-text-stroke: #666666; min-height: 16.0px}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 17.0px; font: 14.0px Times; color: #007db8; -webkit-text-stroke: #007db8}
-    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 17.0px; font: 14.0px 'Songti SC'; color: #007db8; -webkit-text-stroke: #007db8}
-    span.s1 {font-kerning: none}
-    span.s2 {font: 14.0px 'Songti SC'; font-kerning: none}
-    span.s3 {font: 14.0px Times; font-kerning: none}
-    span.s4 {font: 14.0px Times; font-kerning: none; color: #007db8; -webkit-text-stroke: 0px #007db8}
-    span.s5 {font: 14.0px 'Songti SC'; font-kerning: none; color: #007db8; -webkit-text-stroke: 0px #007db8}
-    td.td1 {width: 186.4px; margin: 0.5px 0.5px 0.5px 0.5px}
-    td.td2 {width: 191.2px; margin: 0.5px 0.5px 0.5px 0.5px}
-    td.td3 {width: 203.0px; margin: 0.5px 0.5px 0.5px 0.5px}
-    td.td4 {width: 193.4px; margin: 0.5px 0.5px 0.5px 0.5px}
-  </style>
-</head>
-<body>
+
 <p class="p1"><span class="s1"></span><br></p>
 <table cellspacing="0" cellpadding="0">
   <tbody>
