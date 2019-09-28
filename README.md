@@ -3,8 +3,8 @@
 <h1 align="center">神舟战神蓝天macOS全系列</h1>
 <p align="center">
 <h2>配置文件下载地址</h2>
-战神T6-X4D1  	G6-i78154S1	 G6-i78172S1	 G6-SL7S1
-G6-SL7S2	 G7-i78172D1	 G7-i78172S1 	G7-SL7S1
+战神T6-X4D1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	G6-i78154S1	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G6-i78172S1&nbsp;&nbsp;&nbsp;&nbsp;	 G6-SL7S1
+G6-SL7S2	&nbsp;&nbsp;&nbsp; G7-i78172D1	&nbsp;&nbsp; G7-i78172S1 &nbsp;	G7-SL7S1
 G7-SL7S2	 G7M-i78172D1	 G8-i78172D1 	G8-i78172S1
 G8-KL7S1	 G8-KL7S2	 GX7-GL7S1	 GX7-i76172S1
 GX8 PRO-E3S1 	GX8 PRO-i7S1 	GX8-GL7S1	 GX8-i72172S1
