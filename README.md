@@ -4,7 +4,7 @@
 <p align="center">
 <h2>配置文件下载地址</h2>
 
-[hasee-Z7-KPS7S1-macos-10.13.6-NVDIA-10.15-hd630.zip](https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-macos-10.13.6-NVDIA-10.15-hd630.zip)
+[hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip](https://shell-1251486450.cos.ap-shanghai.myqcloud.com/EFI/hasee-Z7-KPS7S1-10.13.6-NVDIA-10.15hd630.zip)
 <hr/>
 <h2>安装教程</h2>
 <hr/>
