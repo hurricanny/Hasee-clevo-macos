@@ -1,6 +1,6 @@
 <h2>配置文件下载地址</h2><p align="center">
 <img src="https://ws2.sinaimg.cn/large/9f1137b1gy1g1hg3epia2j20n505jt9q.jpg" width="300px" alt="logo">
-<h1 align="center">神舟战神蓝天macOS全系列</h1>
+<h1 align="center">神舟笔记本全系列macOS—EFI 10.13.6-10.14</h1>
 <p align="center">
 <h2>配置文件下载地址</h2>
 
